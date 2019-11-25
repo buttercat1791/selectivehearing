@@ -4,7 +4,7 @@
   "description": "Gathers Tweets tagged with specific hashtags and exports them to a .csv file.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./lib/src/app.js 100 test SXSW"
   },
   "keywords": [
     "Node.js",
