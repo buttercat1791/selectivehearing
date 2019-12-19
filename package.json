@@ -1,6 +1,6 @@
 {
   "name": "selectivehearing",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Gathers Tweets tagged with specific hashtags and exports them to a .csv file.",
   "main": "app.js",
   "scripts": {
