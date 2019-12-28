@@ -1,0 +1,13 @@
+selectivehearing version 0.9.0 [beta]
+
+Installation:
+- Requires Node.js to be installed.
+- Download the source code.
+- Run npm install in the source code directory to install dependencies.
+
+node ./lib/src/app.js 10000 test Thanksgiving
+Usage:
+- Run the script with the command node ./lib/src/app.js [number-of-results] [output-file-name] [[[query1], query2], ...]
+    - number-of-results: Number of results per query
+    - ouput-file-name: Name of .csv file to which results will be written
+    - queries: Search terms to be used

@@ -1,10 +1,10 @@
 {
   "name": "selectivehearing",
-  "version": "0.4.0",
+  "version": "0.9.0",
   "description": "Gathers Tweets tagged with specific hashtags and exports them to a .csv file.",
   "main": "app.js",
   "scripts": {
-    "test": "node ./lib/src/app.js 300 test Thanksgiving"
+    "test": "node ./lib/src/app.js 10000 resolutions #NewYearsResolutions"
   },
   "keywords": [
     "Node.js",
