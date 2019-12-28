@@ -1,6 +1,6 @@
 {
   "name": "selectivehearing",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Gathers Tweets tagged with specific hashtags and exports them to a .csv file.",
   "main": "app.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "Michael Jurkoic",
   "license": "ISC",
   "dependencies": {
+    "json2csv": "^4.5.4",
     "twitter": "^1.7.1"
   }
 }
